@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Home></Home>
+    <Home msg="Oi sou o componente Home"></Home>
   </div>
 </template>
 
